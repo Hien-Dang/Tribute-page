@@ -1,0 +1,82 @@
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#main {
+  font-family: sans-serif;
+  
+}
+
+#title {
+  
+  text-align: center;
+  margin: 0;
+  font-size: 46px;
+  opacity: 0.75;
+
+}
+@media (max-width: 460px) {
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+}
+#p1 {
+  text-align: center;
+  font-size: 20px;
+  opacity: 0.7;
+}
+#image {
+  display: block;
+  margin: auto;
+}
+#img-caption {
+  text-align: center;
+  font-size: 17px;
+  line-height: 55px;
+  opacity: 0.8;
+}
+
+h3 {
+  text-align: center;
+  opacity: 0.8;
+  line-height: 4;
+}
+ul {
+  margin: auto;
+  text-align: left;
+  max-width: 660px;
+  line-height: 2;
+}
+#li15 {
+  line-height: 5;
+}
+
+#p2 {
+  font-size: 17px;
+  text-align: left;
+  margin: auto;
+  line-height: 1.5;
+  max-width: 545px;
+  font-style: italic;
+ 
+}
+
+cite {
+  font-size: 17px;
+  text-align: left;
+  margin: auto;
+  display: block;
+  line-height: 1.5;
+  max-width: 545px;
+  font-style: italic;
+}
+  
+ 
+
